@@ -23,7 +23,7 @@ body{
 @media (max-width:767px) {
     .content{
         flex-direction: column;
-        background-color: #f3f3fd;
+        background-color: white;
         width: 375px;
     }
 
