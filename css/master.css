@@ -28,7 +28,7 @@ body{
 }
 .content .result{
     flex-basis: 50%;
-    background-color: #5d3efb;
+    background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
     padding: 20px;
 
     border-radius: 20px;
