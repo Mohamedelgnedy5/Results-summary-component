@@ -23,7 +23,7 @@ body{
 @media (max-width:767px) {
     .content{
         flex-direction: column;
-        background-color: white;
+        background-color: #f3f3fd;
         width: 375px;
     }
 
@@ -141,3 +141,4 @@ a{
         margin: 10px auto;
     }
 }
+  
